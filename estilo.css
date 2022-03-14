@@ -1,0 +1,26 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-size: 1em;
+}
+
+.enfermera1 {
+
+    float: right;
+}
+
+.enfermera2 {
+
+    float: left;
+}
+
+.enfermera3 {
+
+    float: right;
+}
+
+.enfermera4 {
+
+}
